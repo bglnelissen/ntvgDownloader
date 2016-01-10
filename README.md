@@ -1,6 +1,13 @@
 # ntvgDownloader
 Creating a set of tools that make it possible to simply download the Dutch medical journal 'ntvg - Nederlands Tijdschrift voor Geneeskunde'
 
+## The following `urls` contain all the the PDF and txt versions of a specific episode:
+- http://content.yudu.com/iDevice/346vq-5/hcxTA7fWeRmKdaJ4/pagegroup1.zip
+- http://content.yudu.com/iDevice/346vq-5/hcxTA7fWeRmKdaJ4/pagegroup2.zip
+- http://content.yudu.com/iDevice/346vq-5/hcxTA7fWeRmKdaJ4/pagegroup3.zip
+
+These urls are created from info from the `ngrep` dump as seen below.
+
 ## First `ngrep` dump captured from the **NTvG app** using iPad traffic:
 
 ```
